@@ -1,0 +1,1 @@
+// Create un nuovo progetto utilizzando Vue CLI: aiutatevi con le slide per ripercorrere i vari passaggi dell'installazione come visti a lezione. Poi pushate il progetto su Github.
