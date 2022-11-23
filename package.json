@@ -16,5 +16,8 @@
   },
   "homepage": "https://github.com/Andrea-Baggio/vue-cli-first#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "data": "^0.6.1"
+  }
 }
